@@ -1,0 +1,10 @@
+C:\Users\dudag\OneDrive\Documentos\códigos\DsiVendas-main\WpfVendas\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\dudag\OneDrive\Documentos\códigos\DsiVendas-main\WpfVendas\obj\Debug\net8.0-windows\Views\cadCliente.g.cs
+C:\Users\dudag\OneDrive\Documentos\códigos\DsiVendas-main\WpfVendas\obj\Debug\net8.0-windows\Views\cadFornecedor.g.cs
+C:\Users\dudag\OneDrive\Documentos\códigos\DsiVendas-main\WpfVendas\obj\Debug\net8.0-windows\Views\cadProduto.g.cs
+C:\Users\dudag\OneDrive\Documentos\códigos\DsiVendas-main\WpfVendas\obj\Debug\net8.0-windows\Views\pageClientes.g.cs
+C:\Users\dudag\OneDrive\Documentos\códigos\DsiVendas-main\WpfVendas\obj\Debug\net8.0-windows\Views\pageFornecedores.g.cs
+C:\Users\dudag\OneDrive\Documentos\códigos\DsiVendas-main\WpfVendas\obj\Debug\net8.0-windows\Views\pageProdutos.g.cs
+C:\Users\dudag\OneDrive\Documentos\códigos\DsiVendas-main\WpfVendas\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\dudag\OneDrive\Documentos\códigos\DsiVendas-main\WpfVendas\obj\Debug\net8.0-windows\WpfVendas_MarkupCompile.cache
+C:\Users\dudag\OneDrive\Documentos\códigos\DsiVendas-main\WpfVendas\obj\Debug\net8.0-windows\WpfVendas_MarkupCompile.lref
